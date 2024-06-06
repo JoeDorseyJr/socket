@@ -51,7 +51,7 @@ Returns the current screen size.
 
 | Return Value | Type | Description |
 | :---         | :--- | :---        |
-| Not specified | Promise<{ width: number, height: number  | >} |
+| Not specified | Promise<{ width: number, height: number }> |  |
 
 ## [`getWindows(indices)`](https://github.com/socketsupply/socket/blob/master/api/application.js#L141)
 
